@@ -26,6 +26,8 @@ h6 {
 }
 
 h1 {
+    font-family: 'Julius Sans One', sans-serif;
+
     font-size: 40px;
     color: #fbf2f2;
     line-height: 48px;
@@ -176,7 +178,7 @@ span {
 
 @media only screen and (max-width: 1024px) {
     #lets-connect {
-        margin-top: 5%;
+
     };
 }
 
