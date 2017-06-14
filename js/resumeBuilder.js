@@ -230,7 +230,7 @@ education.display();
 
 //map section
 
-$("#mapDiv").append(googleMap);
+//$("#mapDiv").append(googleMap);
 
 
 
