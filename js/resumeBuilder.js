@@ -50,7 +50,7 @@ var projects = {
     {
         "title": "Kouyu Construction Engineering",
         "url": "http://w.tw.mawebcenters.com/kuoyu/",
-        "description": "Costumize website with client that provide their idea and build up with some code and online builde.",
+        "description": "Customize website with client that provide their idea and build up with some code and online builder..",
         "images": ["images/p2.png"]
     },
      {
