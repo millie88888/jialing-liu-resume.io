@@ -56,7 +56,7 @@ var projects = {
      {
         "title": "Manjedad japanese restaurant",
         "url": "http://www.manjedad.com/",
-        "description": "For a japanese restaurant that had informations and menu on the website, build up with online builder.",
+        "description": "For a Japanese restaurant that had information and menu on the website, build up with the online builder.",
         "images": ["images/p3.png"]
     },
          {
