@@ -1,7 +1,6 @@
 var bio = {
     "name": "Jialing Liu",
-    "role": "Web developer / Web designer / Green card holder",
-    "status" : "Green card holder",
+    "role": "Web developer / Web designer",
     "contacts": {
         "location": "Silver Spring",
         "mobile": "408-656-6883",
@@ -9,7 +8,7 @@ var bio = {
         "email": "millie88888@gmail.com",
     },
     "biopic": "images/millie.png",
-    "welcomeMessage": "I am passionate about web development so I learned and built projects from Udacity to became a front-end developer. As a designer, I always create, research and explore other websites to see other styles. My goal is to become an experienced web developer so I will keep learning new skills.",
+    "welcomeMessage": "I am passionate about web development so I learned and built projects from Udacity to became a front-end developer. As a designer, I always create, research and explore other websites to see other styles. My goal is to become an experienced web developer so I will keep learning new skills. Green-card holder/Authorized to work for any employer.",
     "skills": [
         "JavaScript", "jQuery", "CSS", "HTML", "Adobe Creative Suite","Web Content Optimization", "Bootstrap", "Page Layout"
     ]
